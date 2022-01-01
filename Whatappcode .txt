@@ -11,3 +11,5 @@ author : Naveen
 Attachments (Image, audio, video)
 
 Hiding the last seen
+
+adding video and audio call features
