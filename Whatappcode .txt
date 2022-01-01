@@ -9,3 +9,5 @@ author : Naveen
 3.Lastseenseen code
 
 Attachments (Image, audio, video)
+
+Hiding the last seen
